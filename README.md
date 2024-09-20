@@ -1,6 +1,6 @@
 # Data Visualization Empowering Business with Effective Insights
 
-I recently completed a data analysis and visualization project for Tata Group as part of a Forage job simulation. In this project, I analyzed data from an online retail store, focusing on identifying key insights such as monthly revenue trends, top-performing products, highest-revenue regions, and customers with the most purchases.
+In this project, I analyzed data from an online retail store, focusing on identifying key insights such as monthly revenue trends, top-performing products, highest-revenue regions, and customers with the most purchases.
 
 ## The project involved the following steps:
 
