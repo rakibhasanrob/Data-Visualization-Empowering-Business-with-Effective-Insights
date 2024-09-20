@@ -14,7 +14,7 @@ Demand Analysis: Highlighted regions with the highest product demand to inform e
 
 The project enabled the business to make data-driven decisions, ultimately supporting growth strategies through targeted insights.
 
-### Snapshots:
+### Snapshot:
 
 ![Screenshot 2024-08-16 224118](https://github.com/user-attachments/assets/ccf64ca8-77f0-45ad-aa84-d6fa7bb9b3e8)
 
